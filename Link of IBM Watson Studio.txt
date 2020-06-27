@@ -1,0 +1,4 @@
+Link of IBM Watson Studio
+
+IBM Watson Studio - https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/0f72f2f9-a42b-4cd7-8022-33f685967b71/view?access_token=09f4cad2a7761c250c1ccff203778fa306f89a0ac0a4edea287854ae0cd799b4
+IBM Watson Studio - https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/42be84a2-e007-4994-988d-697f8e29becf/view?access_token=25ab42e4585c1b52314ea3c0071c6279bf884baebedacea3dd59ef2a43838558
